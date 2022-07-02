@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "trig.py", line 13, in <module>
+  File "sv_ttk\__init__.pyc", line 18, in wrapper
+_tkinter.TclError: couldn't read file "C:\Users\ruppa\OneDrive\Documents\1A Easy Access\Programing\Python\apps\trig\dist\library.zip\sv_ttk\sun-valley.tcl": no such file or directory
